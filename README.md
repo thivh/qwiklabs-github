@@ -1,4 +1,4 @@
 # qwiklabs-github
 repo for Qwiklabs in Intro to Github
 I am editing the README file. Adding some more details about the project description.
-hai
+I am editing the README file. Adding some more details about the project description.
